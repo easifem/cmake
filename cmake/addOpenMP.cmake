@@ -1,5 +1,6 @@
-# This program is a part of EASIFEM library Copyright (C) 2020-2021  Vikas
-# Sharma, Ph.D
+# This program is a part of EASIFEM library Expandable And Scalable
+# Infrastructure for Finite Element Methods htttps://www.easifem.com Vikas
+# Sharma, Ph.D., vickysharma0812@gmail.com
 #
 # This program is free software: you can redistribute it and/or modify it under
 # the terms of the GNU General Public License as published by the Free Software
@@ -13,10 +14,7 @@
 #
 # You should have received a copy of the GNU General Public License along with
 # this program.  If not, see <https: //www.gnu.org/licenses/>
-
-# ....................................................................
 #
-# ....................................................................
 
 if(${PROJECT_NAME} MATCHES "easifemBase")
   option(USE_OpenMP OFF)
